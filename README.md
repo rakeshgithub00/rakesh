@@ -1,2 +1,0 @@
-# rakesh
-Python
